@@ -333,6 +333,10 @@ footer a:hover {
   height: 0;
 }
 
+.pad {
+  padding= 10px
+}
+
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
